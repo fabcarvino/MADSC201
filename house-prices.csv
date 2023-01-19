@@ -1,51 +1,51 @@
-﻿Garage;size;Bedrooms;City;Price;;;
-2;97;4;Orlando; $1.360.000 ;;;
-3;107;4;Sacramento; $1.360.000 ;;;
-2;72;4;Miami; $1.350.000 ;;;
-2;84;3;Orlando; $1.300.000 ;;;
-0;65;3;Miami; $1.180.000 ;;;
-2;71;3;Orlando; $1.110.000 ;;;
-3;104;1;Sacramento; $1.110.000 ;;;
-3;103;3;Miami; $1.100.000 ;;;
-3;105;3;Orlando; $1.080.000 ;;;
-2;77;3;Sacramento; $1.060.000 ;;;
-2;78;2;Miami; $1.040.000 ;;;
-2;65;2;Sacramento; $1.020.000 ;;;
-1;90;2;Miami; $1.000.000 ;;;
-1;96;2;Sacramento; $950.000 ;;;
-3;111;2;Miami; $940.000 ;;;
-2;87;2;Orlando; $920.000 ;;;
-1;86;2;Sacramento; $900.000 ;;;
-1;103;2;Orlando; $890.000 ;;;
-1;81;2;Miami; $880.000 ;;;
-3;109;;Orlando; $870.000 ;;;
-1;81;3;Sacramento; $840.000 ;;;
-2;109;3;Orlando; $790.000 ;;;
-1;87;3;Miami; $780.000 ;;;
-1;75;3;Miami; $770.000 ;;;
-0;70;1;Orlando; $770.000 ;;;
-1;99;1;Sacramento; $760.000 ;;;
-3;102;1;Miami; $750.000 ;;;
-1;91;3;Orlando; $740.000 ;;;
-1;129;1;Miami; $730.000 ;;;
-2;108;1;Orlando; $720.000 ;;;
-1;82;;Miami; $710.000 ;;;
-1;108;;Orlando; $690.000 ;;;
-2;92;4;Sacramento; $690.000 ;;;
-1;73;2;Miami; $690.000 ;;;
-1;112;2;Sacramento; $690.000 ;;;
-1;60;2;Orlando; $680.000 ;;;
-1;90;2;Miami; $640.000 ;;;
-0;36;1;Sacramento; $640.000 ;;;
-0;47;1;Orlando; $580.000 ;;;
-0;59;1;Sacramento; $570.000 ;;;
-1;84;1;Sacramento; $550.000 ;;;
-0;60;1;Miami; $550.000 ;;;
-1;68;1;Sacramento; $510.000 ;;;
-1;90;3;Orlando; $490.000 ;;;
-2;110;2;Sacramento; $460.000 ;;;
-1;88;1;Orlando; $460.000 ;;;
-1;82;3;Miami; $350.000 ;;;
-0;96;;Sacramento; $300.000 ;;;
-0;37;;Orlando; $250.000 ;;;
-1;83;4;Sacramento; $100.000 ;;;
+Garage,size,Bedrooms,City,Price
+2,97,4,Orlando,1360000
+3,107,4,Sacramento,1360000
+2,72,4,Miami,1350000
+2,84,3,Orlando,1300000
+0,65,3,Miami,1180000
+2,71,3,Orlando,1110000
+3,104,1,Sacramento,1110000
+3,103,3,Miami,1100000
+3,105,3,Orlando,1080000
+2,77,3,Sacramento,1060000
+2,78,2,Miami,1040000
+2,65,2,Sacramento,1020000
+1,90,2,Miami,1000000
+1,96,2,Sacramento,950000
+3,111,2,Miami,940000
+2,87,2,Orlando,920000
+1,86,2,Sacramento,900000
+1,103,2,Orlando,890000
+1,81,2,Miami,880000
+3,109,,Orlando,870000
+1,81,3,Sacramento,840000
+2,109,3,Orlando,790000
+1,87,3,Miami,780000
+1,75,3,Miami,770000
+0,70,1,Orlando,770000
+1,99,1,Sacramento,760000
+3,102,1,Miami,750000
+1,91,3,Orlando,740000
+1,129,1,Miami,730000
+2,108,1,Orlando,720000
+1,82,,Miami,710000
+1,108,,Orlando,690000
+2,92,4,Sacramento,690000
+1,73,2,Miami,690000
+1,112,2,Sacramento,690000
+1,60,2,Orlando,680000
+1,90,2,Miami,640000
+0,36,1,Sacramento,640000
+0,47,1,Orlando,580000
+0,59,1,Sacramento,570000
+1,84,1,Sacramento,550000
+0,60,1,Miami,550000
+1,68,1,Sacramento,510000
+1,90,3,Orlando,490000
+2,110,2,Sacramento,460000
+1,88,1,Orlando,460000
+1,82,3,Miami,350000
+0,96,,Sacramento,300000
+0,37,,Orlando,250000
+1,83,4,Sacramento,100000
